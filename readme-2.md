@@ -1,0 +1,1 @@
+Регистрация с Cookie и Promise
